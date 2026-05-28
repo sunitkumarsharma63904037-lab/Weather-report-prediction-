@@ -1,5 +1,5 @@
 # Weather-report-prediction-
-"""This is a weather report prediction model this model ask temperature, humidity,windspeed,then predict accuracy and rain & amd; no rain this model basically usege for rain Guess yes and no""" 
+"""This is a weather report prediction model this model ask temperature, humidity,windspeed,then predict accuracy and rain & amd; no rain this model basically usege for rain Guess yes and no"""
 
 
 
